@@ -14,7 +14,7 @@
     <table>
         <tr>
             <td>
-                <img src="res/Fuxuan.png" width=100%>
+                <img src="res/遐蝶.png" width=100%>
             </td>
             <td>
                 <a href="https://www.bilibili.com">
