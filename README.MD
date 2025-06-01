@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/SR-MyStar">
-	    <img src="https://img.shields.io/badge/Hi, I'm -『遐蝶』-ff77ff?style=for-the-badge&logo=starship&logoColor=ff77ff" width=100%>
+	    <img src="https://img.shields.io/badge/Hi, I'm -西行寺❀幽幽子-ff77ff?style=for-the-badge&logo=starship&logoColor=ff77ff" width=100%>
 	</a>
     <br/>
     <br/>
