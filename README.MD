@@ -14,9 +14,6 @@
     <table>
         <tr>
             <td>
-                <img src="res/遐蝶.png" width=100%>
-            </td>
-            <td>
                 <a href="https://www.bilibili.com">
                     <img src="https://img.shields.io/badge/BiliBili-『西行寺❀幽幽子』-f38ba8?style=for-the-badge&logo=bilibili&logoColor=f38ba8" width=100%>
                 </a>
