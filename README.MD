@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/SR-MyStar">
-	    <img src="https://img.shields.io/badge/Hi, I'm -爱丽丝·玛格特洛依德-ff77ff?style=for-the-badge&logo=starship&logoColor=ffff77" width=100%>
+	    <img src="https://img.shields.io/badge/Hi, I'm -Patchouli·Kownledge-ff77ff?style=for-the-badge&logo=starship&logoColor=ffff77" width=100%>
 	</a>
     <br/>
     <br/>
@@ -15,7 +15,7 @@
         <tr>
             <td>
                 <a href="https://space.bilibili.com/1484496587">
-                    <img src="https://img.shields.io/badge/BiliBili-『爱丽丝·玛格特洛依德』-f38ba8?style=for-the-badge&logo=bilibili&logoColor=f38ba8" width=100%>
+                    <img src="https://img.shields.io/badge/BiliBili-Patchouli·Kownledge-f38ba8?style=for-the-badge&logo=bilibili&logoColor=f38ba8" width=100%>
                 </a>
                 <a href="https://github.com/Fuxuan-CN">
                     <img src="https://github-readme-stats.vercel.app/api?username=Fuxuan-CN&show_icons=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" border=0 width=100%>
